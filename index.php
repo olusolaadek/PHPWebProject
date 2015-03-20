@@ -12,7 +12,7 @@
         var $q;
         /**
          * Summary of Foo
-         * @
+     * @todo: makes some sense
          */
         function Foo( )
         {
@@ -27,10 +27,11 @@
         
     
     }
-    // TODO: To implement this later
+    
     $a = new MyClass;
     $a->Foo(); 
     echo '\n';
     $a->q->Foo();
-
+    
+// TODO: To implement this later
 ?>
